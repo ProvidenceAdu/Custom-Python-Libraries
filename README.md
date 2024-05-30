@@ -5,7 +5,7 @@ This repository contains a suite of Python classes using the ArcPy library to pe
 
 ## Introduction
 
-This repository is designed to support the Urban Institute's analysis of various QOL variables through spatial data processing using ArcPy. The tools allow for sophisticated spatial joins, proximity analyses, summary statistics, and the ability to export results to CSV files.
+This repository is designed to support the Urban Institute's analysis of various QOL variables through spatial data processing using ArcPy. The custome libraries allow for sophisticated spatial joins, proximity analyses, summary statistics, and the ability to export results to CSV files.
 
 ## Classes and Methods
 
